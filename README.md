@@ -16,9 +16,9 @@ I'm an aspiring Software Engineer with a passion for networking, automation, and
 
 Here are the projects I've been working on to apply my skills:
 
-- **[IP Subnet Calculator](https://github.com/Jatindeswal/repository-name-here)**: A command-line tool using Python to calculate network details from an IP address, demonstrating core CCNA concepts.
-- **[Network Port Scanner](https://github.com/Jatindeswal/repository-name-here)**: A Python tool to check for open ports on a target IP address, demonstrating knowledge of TCP/IP and socket programming.
-- **[Network Configuration Auditor](https://github.com/Jatindeswal/repository-name-here)**: An automation script that parses a configuration file using Regex to ensure security compliance.
+- **[IP Subnet Calculator](https://github.com/Jatindeswal/Command-Line-IP-Subnet-Calculator)**: A command-line tool using Python to calculate network details from an IP address, demonstrating core CCNA concepts.
+- **[Network Port Scanner](https://github.com/Jatindeswal/Network-Port-Scanner)**: A Python tool to check for open ports on a target IP address, demonstrating knowledge of TCP/IP and socket programming.
+- **[Network Configuration Auditor](https://github.com/Jatindeswal/Network-Configuration-Auditor)**: An automation script that parses a configuration file using Regex to ensure security compliance.
 
 ---
 📫 **How to reach me:** (https://www.linkedin.com/in/jatindeswal/)
