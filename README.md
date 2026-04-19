@@ -8,7 +8,7 @@ I'm an aspiring Software Engineer with a passion for networking, automation, and
 
 - **Languages:** Python
 - **Key Areas:** TCP/IP, Socket Programming, Regular Expressions (Regex), Network Automation, IP Subnetting, API Integration
-- **Certifications:** CCNA (In Progress, Expected Completion: October 2025)
+- **Certifications:** CCNA (Completed: October 2025)
 
 ---
 
