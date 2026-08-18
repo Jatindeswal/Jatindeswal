@@ -30,7 +30,6 @@ Here are my top projects focused on AI orchestration, system observability, and 
 *   **[HiveCore](link-to-repo):** A local-first agentic workstation framework. Built with Python and LiteLLM to provide long-term memory, extensible skills, and scheduled automation across 100+ LLMs.
 *   **[Snifferon](link-to-repo):** An advanced network visualization suite. Captures live packets using Scapy, runs ML-powered anomaly detection via Scikit-Learn, and visualizes traffic on an interactive D3.js dashboard.
 *   **[The Eye Opener](link-to-repo):** An AI fact-checking pipeline for political claims. Utilizes a multi-stage LangGraph orchestration pipeline, ChromaDB, and real-time Server-Sent Events (SSE) streaming.
-*   **[AmiNav](link-to-repo):** An AI-enhanced navigation microservice. Built a scalable REST API using FastAPI and PostgreSQL, integrating Google's Gemini AI to power dynamic Points of Interest (POI) management.
 
 ---
 
