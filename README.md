@@ -1,27 +1,36 @@
 # Hi there 👋 I'm Jatin Deswal
 
-I'm a Software Engineer with a strong passion for building robust backend systems, complex automation frameworks, and mobile applications. I enjoy tackling problems that span the full stack—from AI integrations and database management to rich native Android experiences.
+I'm a Software Engineer specializing in **AI Infrastructure, Automation Frameworks, and Network Observability**. I enjoy tackling complex problems that span the full stack—from building local-first AI agents and RAG pipelines to designing scalable backend systems and enterprise cloud deployments.
 
 ---
 
 ### 🔧 Technologies & Skills
 
-* **Languages:** Python, Kotlin, JavaScript/JSX, SQL, PowerShell/Bash
-* **Backend & APIs:** FastAPI, Flask, Playwright (Web Automation), RESTful Architecture
-* **Frontend & Mobile:** ReactJS, Vite, Android SDK, Room Database
-* **Tools & Infrastructure:** PostgreSQL, Docker, Git, FFmpeg, Google Gemini API
-* **Certifications:** CCNA (Completed: October 2025) - Strong foundation in TCP/IP, Subnetting, and Network Infrastructure.
+*   **Languages:** Python, Kotlin, C, JavaScript/JSX, SQL, PowerShell/Bash
+*   **AI & Agents:** LangGraph, LiteLLM, Vision-Language Models, RAG Pipelines, ChromaDB
+*   **Backend & APIs:** FastAPI, Flask, Playwright (Web Automation), RESTful Architecture
+*   **Infrastructure & Cloud:** AWS (IAM, EC2, VPC), Salesforce Platform, Docker, PostgreSQL
+*   **Networking & Observability:** Network Packet Analysis (Scapy), Anomaly Detection, D3.js
 
 ---
 
-### 📂 Featured Projects
+### 🎓 Certifications & Enterprise Training
 
-Here are some of my best and most technical projects:
+*   **Networking:** CCNA (Completed: October 2025) - Strong foundation in TCP/IP, Subnetting, and Network Infrastructure.
+*   **Telecommunications:** Ericsson Edge Academia Certificate & Professional Badge (April 2026).
+*   **Enterprise Applications:** Salesforce Platform Developer Training (June 2026).
+*   **Cloud Infrastructure:** Active AWS Skill Builder and Canvas AWS Academy foundation.
 
-* **[Novabot](https://github.com/Jatindeswal/Novabot):** A full-stack web automation platform. Integrates a Python/Playwright backend with a dynamic Vite/React user dashboard to handle scalable proxy management, secure multi-account session tracking, and scheduled tasks.
-* **[AmiNav](https://github.com/Jatindeswal/AmiNav):** An AI-enhanced navigation microservice. Built a scalable REST API using FastAPI and PostgreSQL, and integrated Google's Gemini AI to power dynamic Points of Interest (POI) management.
-* **[Signal](https://github.com/Jatindeswal/Signal):** A native Android application written in Kotlin. Leverages custom background services to intelligently classify incoming notifications, utilizing modern Android architecture (Gradle KTS) and Room Database for offline caching.
-* **[Clipper](https://github.com/Jatindeswal/Clipper):** A media processing endpoint built with Flask. Provides lightweight video fetching and precise programmatic segment slicing by integrating yt_dlp and fmpeg.
+---
+
+### 📁 Featured Projects
+
+Here are my top projects focused on AI orchestration, system observability, and automation:
+
+*   **[HiveCore](link-to-repo):** A local-first agentic workstation framework. Built with Python and LiteLLM to provide long-term memory, extensible skills, and scheduled automation across 100+ LLMs.
+*   **[Snifferon](link-to-repo):** An advanced network visualization suite. Captures live packets using Scapy, runs ML-powered anomaly detection via Scikit-Learn, and visualizes traffic on an interactive D3.js dashboard.
+*   **[The Eye Opener](link-to-repo):** An AI fact-checking pipeline for political claims. Utilizes a multi-stage LangGraph orchestration pipeline, ChromaDB, and real-time Server-Sent Events (SSE) streaming.
+*   **[AmiNav](link-to-repo):** An AI-enhanced navigation microservice. Built a scalable REST API using FastAPI and PostgreSQL, integrating Google's Gemini AI to power dynamic Points of Interest (POI) management.
 
 ---
 
